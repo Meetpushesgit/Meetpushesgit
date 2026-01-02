@@ -1,4 +1,4 @@
-<h1 align="center">Meet Dutta</h1>
+<h1 align="center">Meet Dutta : meetdutta065@gmail.com</h1>
 <h3 align="center">Computer Science | AI | Machine Learning</h3>
 
 
