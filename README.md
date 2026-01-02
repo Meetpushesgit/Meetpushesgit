@@ -1,5 +1,5 @@
-<h1 align="center">This is Meet!</h1>
-<h3 align="center">CS Major | AI | Machine Learning</h3>
+<h1 align="center">Meet Dutta</h1>
+<h3 align="center">Computer Science | AI | Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetpushesgit&label=Profile%20views&color=0e75b6&style=flat" alt="meetpushesgit" /> </p>
 
